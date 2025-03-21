@@ -13,3 +13,13 @@ The Directory
 -------------
 - `raw_data` is the directory that contains the original data uploaded from Kaggle.
 - `clean_data` is the directory containing data after post-processing and cleaning.
+
+``` python
+|- data/                    #contains all data files
+   |- clean_data/           #contains data after cleaning + processing.
+   |- raw_data/             #contains original data from Kaggle.
+|- euro_football_insights/  #main project directory (contains main files)
+|- notebooks/               #any notebook files for testing and experimenting
+|- scripts/                 #any scripts not directly related to main project running (like cleaning data)
+|- README.md
+```
