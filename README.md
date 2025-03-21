@@ -1,4 +1,4 @@
-# Brandeis Datathon: Best Soccer Team Data
+# Brandeis Datathon: Euro Football Insights
 **SEAC++**: *Max Ansonoff, Alex Stevenson, David Tuan*
 
 About the Project
