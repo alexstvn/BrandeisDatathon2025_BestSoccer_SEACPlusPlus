@@ -1,0 +1,294 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+12746,710906,1,43712956,94,1,1980,33',0,0,Kriya Sareth (Cambodia) Yellow Card at 33',Kriya Sareth Yellow Card,5518,0.0,0.0,0.0,0.0,0.0,0.0,1,280817.0,2024-09-09 05:46:49
+12746,710906,2,43712957,94,1,2460,41',0,0,Barath Suresh (Sri Lanka) Yellow Card at 41',Barath Suresh Yellow Card,5782,0.0,0.0,0.0,0.0,0.0,0.0,1,374495.0,2024-09-09 05:46:49
+12746,710906,3,43712958,94,2,2940,49',0,0,Wade Dekker (Sri Lanka) Yellow Card at 49',Wade Dekker Yellow Card,5782,0.0,0.0,0.0,0.0,0.0,0.0,1,223099.0,2024-09-09 05:46:49
+12746,710906,4,43712959,76,2,4020,67',0,0,Ahmed Waseem Razeek (Sri Lanka) Substitution at 67',Ahmed Waseem Razeek Substitution,5782,0.0,0.0,0.0,0.0,0.0,0.0,1,203861.0,2024-09-09 05:46:49
+12746,710906,4,43712959,76,2,4020,67',0,0,Ahmed Waseem Razeek (Sri Lanka) Substitution at 67',Ahmed Waseem Razeek Substitution,5782,0.0,0.0,0.0,0.0,0.0,0.0,1,189532.0,2024-09-09 05:46:49
+12746,710906,4,43712959,76,2,4020,67',0,0,Ahmed Waseem Razeek (Sri Lanka) Substitution at 67',Ahmed Waseem Razeek Substitution,5782,0.0,0.0,0.0,0.0,0.0,0.0,2,391590.0,2024-09-09 05:46:49
+12746,710906,5,43712960,76,2,4080,68',0,0,Muslim Yeu (Cambodia) Substitution at 68',Muslim Yeu Substitution,5518,0.0,0.0,0.0,0.0,0.0,0.0,1,295456.0,2024-09-09 05:46:49
+12746,710906,5,43712960,76,2,4080,68',0,0,Muslim Yeu (Cambodia) Substitution at 68',Muslim Yeu Substitution,5518,0.0,0.0,0.0,0.0,0.0,0.0,2,332203.0,2024-09-09 05:46:49
+12746,710906,6,43712961,76,2,4110,69',0,0,Ratanak Min (Cambodia) Substitution at 69',Ratanak Min Substitution,5518,0.0,0.0,0.0,0.0,0.0,0.0,1,,2024-09-09 05:46:49
+12746,710906,6,43712961,76,2,4110,69',0,0,Ratanak Min (Cambodia) Substitution at 69',Ratanak Min Substitution,5518,0.0,0.0,0.0,0.0,0.0,0.0,2,280817.0,2024-09-09 05:46:49
+12746,710906,7,43712962,76,2,4200,70',0,0,Sokyuth Kim (Cambodia) Substitution at 70',Sokyuth Kim Substitution,5518,0.0,0.0,0.0,0.0,0.0,0.0,1,,2024-09-09 05:46:49
+12746,710906,7,43712962,76,2,4200,70',0,0,Sokyuth Kim (Cambodia) Substitution at 70',Sokyuth Kim Substitution,5518,0.0,0.0,0.0,0.0,0.0,0.0,2,250477.0,2024-09-09 05:46:49
+12746,710906,8,43712963,76,2,4560,76',0,0,Harsha Fernando (Sri Lanka) Substitution at 76',Harsha Fernando Substitution,5782,0.0,0.0,0.0,0.0,0.0,0.0,1,301688.0,2024-09-09 05:46:49
+12746,710906,8,43712963,76,2,4560,76',0,0,Harsha Fernando (Sri Lanka) Substitution at 76',Harsha Fernando Substitution,5782,0.0,0.0,0.0,0.0,0.0,0.0,2,358694.0,2024-09-09 05:46:49
+12746,710906,9,43712964,76,2,4860,81',0,0,Sin Sophanat (Cambodia) Substitution at 81',Sin Sophanat Substitution,5518,0.0,0.0,0.0,0.0,0.0,0.0,1,296791.0,2024-09-09 05:46:49
+12746,710906,9,43712964,76,2,4860,81',0,0,Sin Sophanat (Cambodia) Substitution at 81',Sin Sophanat Substitution,5518,0.0,0.0,0.0,0.0,0.0,0.0,2,378609.0,2024-09-09 05:46:49
+12746,710906,10,43712965,76,2,4890,82',0,0,Sosidan Nhean (Cambodia) Substitution at 82',Sosidan Nhean Substitution,5518,0.0,0.0,0.0,0.0,0.0,0.0,1,330416.0,2024-09-09 05:46:49
+12746,710906,10,43712965,76,2,4890,82',0,0,Sosidan Nhean (Cambodia) Substitution at 82',Sosidan Nhean Substitution,5518,0.0,0.0,0.0,0.0,0.0,0.0,2,391593.0,2024-09-09 05:46:49
+12746,710906,11,43712966,76,2,5220,87',0,0,Rifkhan Mohamed (Sri Lanka) Substitution at 87',Rifkhan Mohamed Substitution,5782,0.0,0.0,0.0,0.0,0.0,0.0,1,286410.0,2024-09-09 05:46:49
+12746,710906,11,43712966,76,2,5220,87',0,0,Rifkhan Mohamed (Sri Lanka) Substitution at 87',Rifkhan Mohamed Substitution,5782,0.0,0.0,0.0,0.0,0.0,0.0,2,138605.0,2024-09-09 05:46:49
+12746,710906,12,43712967,76,2,5250,88',0,0,Steven Sacayaradjy (Sri Lanka) Substitution at 88',Steven Sacayaradjy Substitution,5782,0.0,0.0,0.0,0.0,0.0,0.0,1,266980.0,2024-09-09 05:46:49
+12746,710906,12,43712967,76,2,5250,88',0,0,Steven Sacayaradjy (Sri Lanka) Substitution at 88',Steven Sacayaradjy Substitution,5782,0.0,0.0,0.0,0.0,0.0,0.0,2,223099.0,2024-09-09 05:46:49
+12746,710906,13,43712968,94,2,5400,90'+4',0,0,Sokyuth Kim (Cambodia) Yellow Card at 94',Sokyuth Kim Yellow Card,5518,0.0,0.0,0.0,0.0,0.0,0.0,1,,2024-09-09 05:46:49
+12746,710907,1,43824539,94,1,720,12',0,0,Hikaru Mizuno (Cambodia) Yellow Card at 12',Hikaru Mizuno Yellow Card,5518,0.0,0.0,0.0,0.0,0.0,0.0,1,217495.0,2024-09-23 05:36:36
+12746,710907,2,43824540,70,1,2220,37',1,0,Oliver Kelaart (Sri Lanka) Goal at 37',Oliver Kelaart Goal,5782,0.0,0.0,0.0,0.0,0.0,0.0,1,382657.0,2024-09-23 05:36:36
+12746,710907,3,43824541,76,2,2760,46',0,0,Visal Soeuy (Cambodia) Substitution at 46',Visal Soeuy Substitution,5518,0.0,0.0,0.0,0.0,0.0,0.0,1,226216.0,2024-09-23 05:36:36
+12746,710907,3,43824541,76,2,2760,46',0,0,Visal Soeuy (Cambodia) Substitution at 46',Visal Soeuy Substitution,5518,0.0,0.0,0.0,0.0,0.0,0.0,2,217495.0,2024-09-23 05:36:36
+12746,710907,4,43824542,70,2,3000,50',1,0,Sosidan Nhean (Cambodia) Goal at 50',Sosidan Nhean Goal,5518,0.0,0.0,0.0,0.0,0.0,0.0,1,330416.0,2024-09-23 05:36:36
+12746,710907,5,43824543,94,2,3420,57',0,0,Yudai Ogawa (Cambodia) Yellow Card at 57',Yudai Ogawa Yellow Card,5518,0.0,0.0,0.0,0.0,0.0,0.0,1,343557.0,2024-09-23 05:36:36
+12746,710907,6,43824544,76,2,4070,68',0,0,Souhana Sos (Cambodia) Substitution at 68',Souhana Sos Substitution,5518,0.0,0.0,0.0,0.0,0.0,0.0,1,226218.0,2024-09-23 05:36:36
+12746,710907,6,43824544,76,2,4070,68',0,0,Souhana Sos (Cambodia) Substitution at 68',Souhana Sos Substitution,5518,0.0,0.0,0.0,0.0,0.0,0.0,2,,2024-09-23 05:36:36
+12746,710907,8,43824546,76,2,4080,68',0,0,Sam Durrant (Sri Lanka) Substitution at 68',Sam Durrant Substitution,5782,0.0,0.0,0.0,0.0,0.0,0.0,1,358694.0,2024-09-23 05:36:36
+12746,710907,7,43824545,76,2,4080,68',0,0,Phan Sophen (Cambodia) Substitution at 68',Phan Sophen Substitution,5518,0.0,0.0,0.0,0.0,0.0,0.0,1,378609.0,2024-09-23 05:36:36
+12746,710907,7,43824545,76,2,4080,68',0,0,Phan Sophen (Cambodia) Substitution at 68',Phan Sophen Substitution,5518,0.0,0.0,0.0,0.0,0.0,0.0,2,330416.0,2024-09-23 05:36:36
+12746,710907,8,43824546,76,2,4080,68',0,0,Sam Durrant (Sri Lanka) Substitution at 68',Sam Durrant Substitution,5782,0.0,0.0,0.0,0.0,0.0,0.0,2,203861.0,2024-09-23 05:36:36
+12746,710907,8,43824546,76,2,4080,68',0,0,Sam Durrant (Sri Lanka) Substitution at 68',Sam Durrant Substitution,5782,0.0,0.0,0.0,0.0,0.0,0.0,2,189532.0,2024-09-23 05:36:36
+12746,710907,9,43824547,94,2,4560,76',0,0,Kriya Sareth (Cambodia) Yellow Card at 76',Kriya Sareth Yellow Card,5518,0.0,0.0,0.0,0.0,0.0,0.0,1,280817.0,2024-09-23 05:36:36
+12746,710907,10,43824548,76,2,5090,85',0,0,Muslim Yeu (Cambodia) Substitution at 85',Muslim Yeu Substitution,5518,0.0,0.0,0.0,0.0,0.0,0.0,1,295456.0,2024-09-23 05:36:36
+12746,710907,10,43824548,76,2,5090,85',0,0,Muslim Yeu (Cambodia) Substitution at 85',Muslim Yeu Substitution,5518,0.0,0.0,0.0,0.0,0.0,0.0,2,280817.0,2024-09-23 05:36:36
+12746,710907,11,43824549,76,2,5100,85',0,0,Ty Sa (Cambodia) Substitution at 85',Ty Sa Substitution,5518,0.0,0.0,0.0,0.0,0.0,0.0,1,332203.0,2024-09-23 05:36:36
+12746,710907,11,43824549,76,2,5100,85',0,0,Ty Sa (Cambodia) Substitution at 85',Ty Sa Substitution,5518,0.0,0.0,0.0,0.0,0.0,0.0,2,,2024-09-23 05:36:36
+12746,710907,12,43824550,94,2,5340,89',0,0,Wade Dekker (Sri Lanka) Yellow Card at 89',Wade Dekker Yellow Card,5782,0.0,0.0,0.0,0.0,0.0,0.0,1,223099.0,2024-09-23 05:36:36
+12746,710907,13,43824551,70,3,5880,98',1,0,Souhana Sos (Cambodia) Goal at 98',Souhana Sos Goal,5518,0.0,0.0,0.0,0.0,0.0,0.0,1,226218.0,2024-09-23 05:36:36
+12746,710907,14,43824552,76,3,6120,102',0,0,Rifkhan Mohamed (Sri Lanka) Substitution at 102',Rifkhan Mohamed Substitution,5782,0.0,0.0,0.0,0.0,0.0,0.0,1,286410.0,2024-09-23 05:36:36
+12746,710907,14,43824552,76,3,6120,102',0,0,Rifkhan Mohamed (Sri Lanka) Substitution at 102',Rifkhan Mohamed Substitution,5782,0.0,0.0,0.0,0.0,0.0,0.0,2,391590.0,2024-09-23 05:36:36
+12746,710907,15,43824553,94,4,6540,109',0,0,Sin Sophanat (Cambodia) Yellow Card at 109',Sin Sophanat Yellow Card,5518,0.0,0.0,0.0,0.0,0.0,0.0,1,296791.0,2024-09-23 05:36:36
+12746,710907,16,43824554,76,4,6950,116',0,0,Tenuka Ranaweera (Sri Lanka) Substitution at 116',Tenuka Ranaweera Substitution,5782,0.0,0.0,0.0,0.0,0.0,0.0,1,392616.0,2024-09-23 05:36:36
+12746,710907,16,43824554,76,4,6950,116',0,0,Tenuka Ranaweera (Sri Lanka) Substitution at 116',Tenuka Ranaweera Substitution,5782,0.0,0.0,0.0,0.0,0.0,0.0,2,223099.0,2024-09-23 05:36:36
+12746,710907,17,43824555,76,4,6960,116',0,0,Mohamed Aman Faizer (Sri Lanka) Substitution at 116',Mohamed Aman Faizer Substitution,5782,0.0,0.0,0.0,0.0,0.0,0.0,1,328918.0,2024-09-23 05:36:36
+12746,710907,17,43824555,76,4,6960,116',0,0,Mohamed Aman Faizer (Sri Lanka) Substitution at 116',Mohamed Aman Faizer Substitution,5782,0.0,0.0,0.0,0.0,0.0,0.0,2,313967.0,2024-09-23 05:36:36
+12746,710907,18,43824556,76,4,7020,117',0,0,Chanpolin Orn (Cambodia) Substitution at 117',Chanpolin Orn Substitution,5518,0.0,0.0,0.0,0.0,0.0,0.0,1,281790.0,2024-09-23 05:36:36
+12746,710907,18,43824556,76,4,7020,117',0,0,Chanpolin Orn (Cambodia) Substitution at 117',Chanpolin Orn Substitution,5518,0.0,0.0,0.0,0.0,0.0,0.0,2,343557.0,2024-09-23 05:36:36
+12746,710907,19,43824557,70,4,7200,120'+2',1,0,Claudio Kammerknecht (Sri Lanka) Goal at 122',Claudio Kammerknecht Goal,5782,0.0,0.0,0.0,0.0,0.0,0.0,1,344590.0,2024-09-23 05:36:36
+12746,710908,1,43712277,70,1,180,3',1,0,João Pedro  (Timor-Leste) Goal at 3',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,400684.0,2024-09-09 05:46:49
+12746,710908,1,43712277,70,1,180,3',1,0,João Pedro  (Timor-Leste) Goal at 3',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,383989.0,2024-09-09 05:46:49
+12746,710908,1,43712277,70,1,180,3',1,0,João Pedro  (Timor-Leste) Goal at 3',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,383059.0,2024-09-09 05:46:49
+12746,710908,1,43712277,70,1,180,3',1,0,João Pedro  (Timor-Leste) Goal at 3',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,379564.0,2024-09-09 05:46:49
+12746,710908,1,43712277,70,1,180,3',1,0,João Pedro  (Timor-Leste) Goal at 3',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,366776.0,2024-09-09 05:46:49
+12746,710908,1,43712277,70,1,180,3',1,0,João Pedro  (Timor-Leste) Goal at 3',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,361471.0,2024-09-09 05:46:49
+12746,710908,1,43712277,70,1,180,3',1,0,João Pedro  (Timor-Leste) Goal at 3',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,357976.0,2024-09-09 05:46:49
+12746,710908,1,43712277,70,1,180,3',1,0,João Pedro  (Timor-Leste) Goal at 3',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,357969.0,2024-09-09 05:46:49
+12746,710908,1,43712277,70,1,180,3',1,0,João Pedro  (Timor-Leste) Goal at 3',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,339075.0,2024-09-09 05:46:49
+12746,710908,1,43712277,70,1,180,3',1,0,João Pedro  (Timor-Leste) Goal at 3',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,325082.0,2024-09-09 05:46:49
+12746,710908,1,43712277,70,1,180,3',1,0,João Pedro  (Timor-Leste) Goal at 3',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,318153.0,2024-09-09 05:46:49
+12746,710908,1,43712277,70,1,180,3',1,0,João Pedro  (Timor-Leste) Goal at 3',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,315114.0,2024-09-09 05:46:49
+12746,710908,1,43712277,70,1,180,3',1,0,João Pedro  (Timor-Leste) Goal at 3',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,314946.0,2024-09-09 05:46:49
+12746,710908,1,43712277,70,1,180,3',1,0,João Pedro  (Timor-Leste) Goal at 3',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,314542.0,2024-09-09 05:46:49
+12746,710908,1,43712277,70,1,180,3',1,0,João Pedro  (Timor-Leste) Goal at 3',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,304762.0,2024-09-09 05:46:49
+12746,710908,1,43712277,70,1,180,3',1,0,João Pedro  (Timor-Leste) Goal at 3',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,304445.0,2024-09-09 05:46:49
+12746,710908,1,43712277,70,1,180,3',1,0,João Pedro  (Timor-Leste) Goal at 3',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,301863.0,2024-09-09 05:46:49
+12746,710908,1,43712277,70,1,180,3',1,0,João Pedro  (Timor-Leste) Goal at 3',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,290720.0,2024-09-09 05:46:49
+12746,710908,1,43712277,70,1,180,3',1,0,João Pedro  (Timor-Leste) Goal at 3',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,284960.0,2024-09-09 05:46:49
+12746,710908,1,43712277,70,1,180,3',1,0,João Pedro  (Timor-Leste) Goal at 3',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,283025.0,2024-09-09 05:46:49
+12746,710908,1,43712277,70,1,180,3',1,0,João Pedro  (Timor-Leste) Goal at 3',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,233809.0,2024-09-09 05:46:49
+12746,710908,1,43712277,70,1,180,3',1,0,João Pedro  (Timor-Leste) Goal at 3',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,219715.0,2024-09-09 05:46:49
+12746,710908,1,43712277,70,1,180,3',1,0,João Pedro  (Timor-Leste) Goal at 3',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,216378.0,2024-09-09 05:46:49
+12746,710908,1,43712277,70,1,180,3',1,0,João Pedro  (Timor-Leste) Goal at 3',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,213260.0,2024-09-09 05:46:49
+12746,710908,1,43712277,70,1,180,3',1,0,João Pedro  (Timor-Leste) Goal at 3',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,185857.0,2024-09-09 05:46:49
+12746,710908,1,43712277,70,1,180,3',1,0,João Pedro  (Timor-Leste) Goal at 3',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,152014.0,2024-09-09 05:46:49
+12746,710908,1,43712277,70,1,180,3',1,0,João Pedro  (Timor-Leste) Goal at 3',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,149631.0,2024-09-09 05:46:49
+12746,710908,2,43712278,70,1,1620,27',1,0,João Pedro  (Timor-Leste) Goal at 27',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,400684.0,2024-09-09 05:46:49
+12746,710908,2,43712278,70,1,1620,27',1,0,João Pedro  (Timor-Leste) Goal at 27',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,383989.0,2024-09-09 05:46:49
+12746,710908,2,43712278,70,1,1620,27',1,0,João Pedro  (Timor-Leste) Goal at 27',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,383059.0,2024-09-09 05:46:49
+12746,710908,2,43712278,70,1,1620,27',1,0,João Pedro  (Timor-Leste) Goal at 27',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,379564.0,2024-09-09 05:46:49
+12746,710908,2,43712278,70,1,1620,27',1,0,João Pedro  (Timor-Leste) Goal at 27',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,366776.0,2024-09-09 05:46:49
+12746,710908,2,43712278,70,1,1620,27',1,0,João Pedro  (Timor-Leste) Goal at 27',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,361471.0,2024-09-09 05:46:49
+12746,710908,2,43712278,70,1,1620,27',1,0,João Pedro  (Timor-Leste) Goal at 27',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,357976.0,2024-09-09 05:46:49
+12746,710908,2,43712278,70,1,1620,27',1,0,João Pedro  (Timor-Leste) Goal at 27',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,357969.0,2024-09-09 05:46:49
+12746,710908,2,43712278,70,1,1620,27',1,0,João Pedro  (Timor-Leste) Goal at 27',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,339075.0,2024-09-09 05:46:49
+12746,710908,2,43712278,70,1,1620,27',1,0,João Pedro  (Timor-Leste) Goal at 27',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,325082.0,2024-09-09 05:46:49
+12746,710908,2,43712278,70,1,1620,27',1,0,João Pedro  (Timor-Leste) Goal at 27',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,318153.0,2024-09-09 05:46:49
+12746,710908,2,43712278,70,1,1620,27',1,0,João Pedro  (Timor-Leste) Goal at 27',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,315114.0,2024-09-09 05:46:49
+12746,710908,2,43712278,70,1,1620,27',1,0,João Pedro  (Timor-Leste) Goal at 27',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,314946.0,2024-09-09 05:46:49
+12746,710908,2,43712278,70,1,1620,27',1,0,João Pedro  (Timor-Leste) Goal at 27',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,314542.0,2024-09-09 05:46:49
+12746,710908,2,43712278,70,1,1620,27',1,0,João Pedro  (Timor-Leste) Goal at 27',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,304762.0,2024-09-09 05:46:49
+12746,710908,2,43712278,70,1,1620,27',1,0,João Pedro  (Timor-Leste) Goal at 27',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,304445.0,2024-09-09 05:46:49
+12746,710908,2,43712278,70,1,1620,27',1,0,João Pedro  (Timor-Leste) Goal at 27',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,301863.0,2024-09-09 05:46:49
+12746,710908,2,43712278,70,1,1620,27',1,0,João Pedro  (Timor-Leste) Goal at 27',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,290720.0,2024-09-09 05:46:49
+12746,710908,2,43712278,70,1,1620,27',1,0,João Pedro  (Timor-Leste) Goal at 27',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,284960.0,2024-09-09 05:46:49
+12746,710908,2,43712278,70,1,1620,27',1,0,João Pedro  (Timor-Leste) Goal at 27',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,283025.0,2024-09-09 05:46:49
+12746,710908,2,43712278,70,1,1620,27',1,0,João Pedro  (Timor-Leste) Goal at 27',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,233809.0,2024-09-09 05:46:49
+12746,710908,2,43712278,70,1,1620,27',1,0,João Pedro  (Timor-Leste) Goal at 27',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,219715.0,2024-09-09 05:46:49
+12746,710908,2,43712278,70,1,1620,27',1,0,João Pedro  (Timor-Leste) Goal at 27',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,216378.0,2024-09-09 05:46:49
+12746,710908,2,43712278,70,1,1620,27',1,0,João Pedro  (Timor-Leste) Goal at 27',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,213260.0,2024-09-09 05:46:49
+12746,710908,2,43712278,70,1,1620,27',1,0,João Pedro  (Timor-Leste) Goal at 27',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,185857.0,2024-09-09 05:46:49
+12746,710908,2,43712278,70,1,1620,27',1,0,João Pedro  (Timor-Leste) Goal at 27',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,152014.0,2024-09-09 05:46:49
+12746,710908,2,43712278,70,1,1620,27',1,0,João Pedro  (Timor-Leste) Goal at 27',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,149631.0,2024-09-09 05:46:49
+12746,710908,3,43712279,94,1,1800,30',0,0,Olagar Xavier (Timor-Leste) Yellow Card at 30',Olagar Xavier Yellow Card,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,334736.0,2024-09-09 05:46:49
+12746,710908,4,43712280,70,1,2040,34',1,0,Oyubaatar Mijiddorj (Mongolia) Goal at 34',Oyubaatar Mijiddorj Goal,8663,0.0,0.0,0.0,0.0,0.0,0.0,1,317144.0,2024-09-09 05:46:49
+12746,710908,5,43712282,70,2,3120,52',1,0,João Pedro  (Timor-Leste) Goal at 52',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,400684.0,2024-09-09 05:46:49
+12746,710908,5,43712282,70,2,3120,52',1,0,João Pedro  (Timor-Leste) Goal at 52',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,383989.0,2024-09-09 05:46:49
+12746,710908,5,43712282,70,2,3120,52',1,0,João Pedro  (Timor-Leste) Goal at 52',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,383059.0,2024-09-09 05:46:49
+12746,710908,5,43712282,70,2,3120,52',1,0,João Pedro  (Timor-Leste) Goal at 52',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,379564.0,2024-09-09 05:46:49
+12746,710908,5,43712282,70,2,3120,52',1,0,João Pedro  (Timor-Leste) Goal at 52',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,366776.0,2024-09-09 05:46:49
+12746,710908,5,43712282,70,2,3120,52',1,0,João Pedro  (Timor-Leste) Goal at 52',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,361471.0,2024-09-09 05:46:49
+12746,710908,5,43712282,70,2,3120,52',1,0,João Pedro  (Timor-Leste) Goal at 52',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,357976.0,2024-09-09 05:46:49
+12746,710908,5,43712282,70,2,3120,52',1,0,João Pedro  (Timor-Leste) Goal at 52',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,357969.0,2024-09-09 05:46:49
+12746,710908,5,43712282,70,2,3120,52',1,0,João Pedro  (Timor-Leste) Goal at 52',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,339075.0,2024-09-09 05:46:49
+12746,710908,5,43712282,70,2,3120,52',1,0,João Pedro  (Timor-Leste) Goal at 52',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,325082.0,2024-09-09 05:46:49
+12746,710908,5,43712282,70,2,3120,52',1,0,João Pedro  (Timor-Leste) Goal at 52',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,318153.0,2024-09-09 05:46:49
+12746,710908,5,43712282,70,2,3120,52',1,0,João Pedro  (Timor-Leste) Goal at 52',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,315114.0,2024-09-09 05:46:49
+12746,710908,5,43712282,70,2,3120,52',1,0,João Pedro  (Timor-Leste) Goal at 52',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,314946.0,2024-09-09 05:46:49
+12746,710908,5,43712282,70,2,3120,52',1,0,João Pedro  (Timor-Leste) Goal at 52',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,314542.0,2024-09-09 05:46:49
+12746,710908,5,43712282,70,2,3120,52',1,0,João Pedro  (Timor-Leste) Goal at 52',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,304762.0,2024-09-09 05:46:49
+12746,710908,5,43712282,70,2,3120,52',1,0,João Pedro  (Timor-Leste) Goal at 52',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,304445.0,2024-09-09 05:46:49
+12746,710908,5,43712282,70,2,3120,52',1,0,João Pedro  (Timor-Leste) Goal at 52',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,301863.0,2024-09-09 05:46:49
+12746,710908,5,43712282,70,2,3120,52',1,0,João Pedro  (Timor-Leste) Goal at 52',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,290720.0,2024-09-09 05:46:49
+12746,710908,5,43712282,70,2,3120,52',1,0,João Pedro  (Timor-Leste) Goal at 52',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,284960.0,2024-09-09 05:46:49
+12746,710908,5,43712282,70,2,3120,52',1,0,João Pedro  (Timor-Leste) Goal at 52',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,283025.0,2024-09-09 05:46:49
+12746,710908,5,43712282,70,2,3120,52',1,0,João Pedro  (Timor-Leste) Goal at 52',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,233809.0,2024-09-09 05:46:49
+12746,710908,5,43712282,70,2,3120,52',1,0,João Pedro  (Timor-Leste) Goal at 52',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,219715.0,2024-09-09 05:46:49
+12746,710908,5,43712282,70,2,3120,52',1,0,João Pedro  (Timor-Leste) Goal at 52',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,216378.0,2024-09-09 05:46:49
+12746,710908,5,43712282,70,2,3120,52',1,0,João Pedro  (Timor-Leste) Goal at 52',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,213260.0,2024-09-09 05:46:49
+12746,710908,5,43712282,70,2,3120,52',1,0,João Pedro  (Timor-Leste) Goal at 52',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,185857.0,2024-09-09 05:46:49
+12746,710908,5,43712282,70,2,3120,52',1,0,João Pedro  (Timor-Leste) Goal at 52',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,152014.0,2024-09-09 05:46:49
+12746,710908,5,43712282,70,2,3120,52',1,0,João Pedro  (Timor-Leste) Goal at 52',João Pedro  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,149631.0,2024-09-09 05:46:49
+12746,710908,6,43712283,94,2,3360,56',0,0,Oyubaatar Mijiddorj (Mongolia) Yellow Card at 56',Oyubaatar Mijiddorj Yellow Card,8663,0.0,0.0,0.0,0.0,0.0,0.0,1,317144.0,2024-09-09 05:46:49
+12746,710908,7,43712284,70,2,3480,58',1,0,Zenivio  (Timor-Leste) Goal at 58',Zenivio  Goal,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,332298.0,2024-09-09 05:46:49
+12746,710908,8,43712285,76,2,3540,59',0,0,Temüüjin Altansükh (Mongolia) Substitution at 59',Temüüjin Altansükh Substitution,8663,0.0,0.0,0.0,0.0,0.0,0.0,1,317140.0,2024-09-09 05:46:49
+12746,710908,8,43712285,76,2,3540,59',0,0,Temüüjin Altansükh (Mongolia) Substitution at 59',Temüüjin Altansükh Substitution,8663,0.0,0.0,0.0,0.0,0.0,0.0,1,283923.0,2024-09-09 05:46:49
+12746,710908,8,43712285,76,2,3540,59',0,0,Temüüjin Altansükh (Mongolia) Substitution at 59',Temüüjin Altansükh Substitution,8663,0.0,0.0,0.0,0.0,0.0,0.0,2,244861.0,2024-09-09 05:46:49
+12746,710908,9,43712286,76,2,3570,60',0,0,Uuganbat Bat-Erdene (Mongolia) Substitution at 60',Uuganbat Bat-Erdene Substitution,8663,0.0,0.0,0.0,0.0,0.0,0.0,1,286099.0,2024-09-09 05:46:49
+12746,710908,9,43712286,76,2,3570,60',0,0,Uuganbat Bat-Erdene (Mongolia) Substitution at 60',Uuganbat Bat-Erdene Substitution,8663,0.0,0.0,0.0,0.0,0.0,0.0,2,363267.0,2024-09-09 05:46:49
+12746,710908,10,43712287,76,2,4560,76',0,0,Tiago  (Timor-Leste) Substitution at 76',Tiago  Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,84234.0,2024-09-09 05:46:49
+12746,710908,10,43712287,76,2,4560,76',0,0,Tiago  (Timor-Leste) Substitution at 76',Tiago  Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,334736.0,2024-09-09 05:46:49
+12746,710908,11,43712288,76,2,4590,77',0,0,Elias Mesquita (Timor-Leste) Substitution at 77',Elias Mesquita Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,317200.0,2024-09-09 05:46:49
+12746,710908,11,43712288,76,2,4590,77',0,0,Elias Mesquita (Timor-Leste) Substitution at 77',Elias Mesquita Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,391510.0,2024-09-09 05:46:49
+12746,710908,12,43712281,94,2,4605,77',0,0,Gantogtokh Gantuya (Mongolia) Yellow Card at 77',Gantogtokh Gantuya Yellow Card,8663,0.0,0.0,0.0,0.0,0.0,0.0,1,317145.0,2024-09-09 05:46:49
+12746,710908,13,43712289,76,2,4800,80',0,0,Tsogtbayar Batbayar (Mongolia) Substitution at 80',Tsogtbayar Batbayar Substitution,8663,0.0,0.0,0.0,0.0,0.0,0.0,1,374438.0,2024-09-09 05:46:49
+12746,710908,13,43712289,76,2,4800,80',0,0,Tsogtbayar Batbayar (Mongolia) Substitution at 80',Tsogtbayar Batbayar Substitution,8663,0.0,0.0,0.0,0.0,0.0,0.0,2,297463.0,2024-09-09 05:46:49
+12746,710908,14,43712290,76,2,4830,81',0,0,Munkh-Erdene Batkhuyag (Mongolia) Substitution at 81',Munkh-Erdene Batkhuyag Substitut,8663,0.0,0.0,0.0,0.0,0.0,0.0,1,321565.0,2024-09-09 05:46:49
+12746,710908,14,43712290,76,2,4830,81',0,0,Munkh-Erdene Batkhuyag (Mongolia) Substitution at 81',Munkh-Erdene Batkhuyag Substitut,8663,0.0,0.0,0.0,0.0,0.0,0.0,2,317145.0,2024-09-09 05:46:49
+12746,710908,15,43712291,76,2,5100,85',0,0,Alexandro Bakhito (Timor-Leste) Substitution at 85',Alexandro Bakhito Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,393471.0,2024-09-09 05:46:49
+12746,710908,15,43712291,76,2,5100,85',0,0,Alexandro Bakhito (Timor-Leste) Substitution at 85',Alexandro Bakhito Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,391527.0,2024-09-09 05:46:49
+12746,710908,15,43712291,76,2,5100,85',0,0,Alexandro Bakhito (Timor-Leste) Substitution at 85',Alexandro Bakhito Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,400684.0,2024-09-09 05:46:49
+12746,710908,15,43712291,76,2,5100,85',0,0,Alexandro Bakhito (Timor-Leste) Substitution at 85',Alexandro Bakhito Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,383989.0,2024-09-09 05:46:49
+12746,710908,15,43712291,76,2,5100,85',0,0,Alexandro Bakhito (Timor-Leste) Substitution at 85',Alexandro Bakhito Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,383059.0,2024-09-09 05:46:49
+12746,710908,15,43712291,76,2,5100,85',0,0,Alexandro Bakhito (Timor-Leste) Substitution at 85',Alexandro Bakhito Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,379564.0,2024-09-09 05:46:49
+12746,710908,15,43712291,76,2,5100,85',0,0,Alexandro Bakhito (Timor-Leste) Substitution at 85',Alexandro Bakhito Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,366776.0,2024-09-09 05:46:49
+12746,710908,15,43712291,76,2,5100,85',0,0,Alexandro Bakhito (Timor-Leste) Substitution at 85',Alexandro Bakhito Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,361471.0,2024-09-09 05:46:49
+12746,710908,15,43712291,76,2,5100,85',0,0,Alexandro Bakhito (Timor-Leste) Substitution at 85',Alexandro Bakhito Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,357976.0,2024-09-09 05:46:49
+12746,710908,15,43712291,76,2,5100,85',0,0,Alexandro Bakhito (Timor-Leste) Substitution at 85',Alexandro Bakhito Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,357969.0,2024-09-09 05:46:49
+12746,710908,15,43712291,76,2,5100,85',0,0,Alexandro Bakhito (Timor-Leste) Substitution at 85',Alexandro Bakhito Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,339075.0,2024-09-09 05:46:49
+12746,710908,15,43712291,76,2,5100,85',0,0,Alexandro Bakhito (Timor-Leste) Substitution at 85',Alexandro Bakhito Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,325082.0,2024-09-09 05:46:49
+12746,710908,15,43712291,76,2,5100,85',0,0,Alexandro Bakhito (Timor-Leste) Substitution at 85',Alexandro Bakhito Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,318153.0,2024-09-09 05:46:49
+12746,710908,15,43712291,76,2,5100,85',0,0,Alexandro Bakhito (Timor-Leste) Substitution at 85',Alexandro Bakhito Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,315114.0,2024-09-09 05:46:49
+12746,710908,15,43712291,76,2,5100,85',0,0,Alexandro Bakhito (Timor-Leste) Substitution at 85',Alexandro Bakhito Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,314946.0,2024-09-09 05:46:49
+12746,710908,15,43712291,76,2,5100,85',0,0,Alexandro Bakhito (Timor-Leste) Substitution at 85',Alexandro Bakhito Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,314542.0,2024-09-09 05:46:49
+12746,710908,15,43712291,76,2,5100,85',0,0,Alexandro Bakhito (Timor-Leste) Substitution at 85',Alexandro Bakhito Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,304762.0,2024-09-09 05:46:49
+12746,710908,15,43712291,76,2,5100,85',0,0,Alexandro Bakhito (Timor-Leste) Substitution at 85',Alexandro Bakhito Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,304445.0,2024-09-09 05:46:49
+12746,710908,15,43712291,76,2,5100,85',0,0,Alexandro Bakhito (Timor-Leste) Substitution at 85',Alexandro Bakhito Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,301863.0,2024-09-09 05:46:49
+12746,710908,15,43712291,76,2,5100,85',0,0,Alexandro Bakhito (Timor-Leste) Substitution at 85',Alexandro Bakhito Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,290720.0,2024-09-09 05:46:49
+12746,710908,15,43712291,76,2,5100,85',0,0,Alexandro Bakhito (Timor-Leste) Substitution at 85',Alexandro Bakhito Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,284960.0,2024-09-09 05:46:49
+12746,710908,15,43712291,76,2,5100,85',0,0,Alexandro Bakhito (Timor-Leste) Substitution at 85',Alexandro Bakhito Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,283025.0,2024-09-09 05:46:49
+12746,710908,15,43712291,76,2,5100,85',0,0,Alexandro Bakhito (Timor-Leste) Substitution at 85',Alexandro Bakhito Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,233809.0,2024-09-09 05:46:49
+12746,710908,15,43712291,76,2,5100,85',0,0,Alexandro Bakhito (Timor-Leste) Substitution at 85',Alexandro Bakhito Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,219715.0,2024-09-09 05:46:49
+12746,710908,15,43712291,76,2,5100,85',0,0,Alexandro Bakhito (Timor-Leste) Substitution at 85',Alexandro Bakhito Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,216378.0,2024-09-09 05:46:49
+12746,710908,15,43712291,76,2,5100,85',0,0,Alexandro Bakhito (Timor-Leste) Substitution at 85',Alexandro Bakhito Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,213260.0,2024-09-09 05:46:49
+12746,710908,15,43712291,76,2,5100,85',0,0,Alexandro Bakhito (Timor-Leste) Substitution at 85',Alexandro Bakhito Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,185857.0,2024-09-09 05:46:49
+12746,710908,15,43712291,76,2,5100,85',0,0,Alexandro Bakhito (Timor-Leste) Substitution at 85',Alexandro Bakhito Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,152014.0,2024-09-09 05:46:49
+12746,710908,15,43712291,76,2,5100,85',0,0,Alexandro Bakhito (Timor-Leste) Substitution at 85',Alexandro Bakhito Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,149631.0,2024-09-09 05:46:49
+12746,710908,16,43712292,76,2,5340,89',0,0,Filip Andersen (Mongolia) Substitution at 89',Filip Andersen Substitution,8663,0.0,0.0,0.0,0.0,0.0,0.0,1,374439.0,2024-09-09 05:46:49
+12746,710908,16,43712292,76,2,5340,89',0,0,Filip Andersen (Mongolia) Substitution at 89',Filip Andersen Substitution,8663,0.0,0.0,0.0,0.0,0.0,0.0,2,372386.0,2024-09-09 05:46:49
+12746,710908,16,43712292,76,2,5340,89',0,0,Filip Andersen (Mongolia) Substitution at 89',Filip Andersen Substitution,8663,0.0,0.0,0.0,0.0,0.0,0.0,2,299027.0,2024-09-09 05:46:49
+12746,710908,17,43712293,76,2,5400,90',0,0,Freteliano  (Timor-Leste) Substitution at 90',Freteliano  Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,374397.0,2024-09-09 05:46:49
+12746,710908,18,43712294,76,2,5400,90'+1',0,0,Mário Quintão (Timor-Leste) Substitution at 91',Mário Quintão Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,335004.0,2024-09-09 05:46:49
+12746,710908,17,43712293,76,2,5400,90',0,0,Freteliano  (Timor-Leste) Substitution at 90',Freteliano  Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,332297.0,2024-09-09 05:46:49
+12746,710908,18,43712294,76,2,5400,90'+1',0,0,Mário Quintão (Timor-Leste) Substitution at 91',Mário Quintão Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,317197.0,2024-09-09 05:46:49
+12746,710909,1,43797139,70,1,480,8',1,0,Törböt Daginaa (Mongolia) Goal at 8',Törböt Daginaa Goal,8663,0.0,0.0,0.0,0.0,0.0,0.0,1,244847.0,2024-09-20 05:42:51
+12746,710909,2,43797140,76,2,2760,46',0,0,Dulguun Amaraa (Mongolia) Substitution at 46',Dulguun Amaraa Substitution,8663,0.0,0.0,0.0,0.0,0.0,0.0,1,317139.0,2024-09-20 05:42:51
+12746,710909,2,43797140,76,2,2760,46',0,0,Dulguun Amaraa (Mongolia) Substitution at 46',Dulguun Amaraa Substitution,8663,0.0,0.0,0.0,0.0,0.0,0.0,2,244861.0,2024-09-20 05:42:51
+12746,710909,3,43797141,76,2,2790,47',0,0,Gerelt-Od Bat-Orgil (Mongolia) Substitution at 47',Gerelt-Od Bat-Orgil Substitution,8663,0.0,0.0,0.0,0.0,0.0,0.0,1,372386.0,2024-09-20 05:42:51
+12746,710909,3,43797141,76,2,2790,47',0,0,Gerelt-Od Bat-Orgil (Mongolia) Substitution at 47',Gerelt-Od Bat-Orgil Substitution,8663,0.0,0.0,0.0,0.0,0.0,0.0,1,299027.0,2024-09-20 05:42:51
+12746,710909,3,43797141,76,2,2790,47',0,0,Gerelt-Od Bat-Orgil (Mongolia) Substitution at 47',Gerelt-Od Bat-Orgil Substitution,8663,0.0,0.0,0.0,0.0,0.0,0.0,2,374439.0,2024-09-20 05:42:51
+12746,710909,4,43797142,76,2,2820,47',0,0,Mário Quintão (Timor-Leste) Substitution at 47',Mário Quintão Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,335004.0,2024-09-20 05:42:51
+12746,710909,4,43797142,76,2,2820,47',0,0,Mário Quintão (Timor-Leste) Substitution at 47',Mário Quintão Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,393471.0,2024-09-20 05:42:51
+12746,710909,4,43797142,76,2,2820,47',0,0,Mário Quintão (Timor-Leste) Substitution at 47',Mário Quintão Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,391527.0,2024-09-20 05:42:51
+12746,710909,5,43797143,70,2,3300,55',1,0,Dulguun Amaraa (Mongolia) Goal at 55',Dulguun Amaraa Goal,8663,0.0,0.0,0.0,0.0,0.0,0.0,1,317139.0,2024-09-20 05:42:51
+12746,710909,6,43797144,94,2,3660,61',0,0,Olagar Xavier (Timor-Leste) Yellow Card at 61',Olagar Xavier Yellow Card,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,334736.0,2024-09-20 05:42:51
+12746,710909,7,43797145,76,2,4080,68',0,0,Mouzinho Barreto De Lima (Timor-Leste) Substitution at 68',Mouzinho Barreto De Lima Substit,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,317203.0,2024-09-20 05:42:51
+12746,710909,7,43797145,76,2,4080,68',0,0,Mouzinho Barreto De Lima (Timor-Leste) Substitution at 68',Mouzinho Barreto De Lima Substit,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,334736.0,2024-09-20 05:42:51
+12746,710909,8,43797146,94,2,4260,71',0,0,Dulguun Amaraa (Mongolia) Yellow Card at 71',Dulguun Amaraa Yellow Card,8663,0.0,0.0,0.0,0.0,0.0,0.0,1,317139.0,2024-09-20 05:42:51
+12746,710909,9,43797147,76,2,4680,78',0,0,Bayartsengel Purevdorj (Mongolia) Substitution at 78',Bayartsengel Purevdorj Substitut,8663,0.0,0.0,0.0,0.0,0.0,0.0,1,317147.0,2024-09-20 05:42:51
+12746,710909,9,43797147,76,2,4680,78',0,0,Bayartsengel Purevdorj (Mongolia) Substitution at 78',Bayartsengel Purevdorj Substitut,8663,0.0,0.0,0.0,0.0,0.0,0.0,2,244847.0,2024-09-20 05:42:51
+12746,710909,10,43797148,76,2,4710,79',0,0,Tumen-Ulziy Sodbilguun (Mongolia) Substitution at 79',Tumen-Ulziy Sodbilguun Substitut,8663,0.0,0.0,0.0,0.0,0.0,0.0,1,385236.0,2024-09-20 05:42:51
+12746,710909,10,43797148,76,2,4710,79',0,0,Tumen-Ulziy Sodbilguun (Mongolia) Substitution at 79',Tumen-Ulziy Sodbilguun Substitut,8663,0.0,0.0,0.0,0.0,0.0,0.0,2,317140.0,2024-09-20 05:42:51
+12746,710909,10,43797148,76,2,4710,79',0,0,Tumen-Ulziy Sodbilguun (Mongolia) Substitution at 79',Tumen-Ulziy Sodbilguun Substitut,8663,0.0,0.0,0.0,0.0,0.0,0.0,2,283923.0,2024-09-20 05:42:51
+12746,710909,11,43797149,76,2,4800,80',0,0,Santiago Xavier José da Costa (Timor-Leste) Substitution at 80',Santiago Xavier José da Costa Su,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,392448.0,2024-09-20 05:42:51
+12746,710909,11,43797149,76,2,4800,80',0,0,Santiago Xavier José da Costa (Timor-Leste) Substitution at 80',Santiago Xavier José da Costa Su,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,332297.0,2024-09-20 05:42:51
+12746,710909,12,43797150,76,2,4830,81',0,0,Freteliano dos Santos (Timor-Leste) Substitution at 81',Freteliano dos Santos Substituti,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,374397.0,2024-09-20 05:42:51
+12746,710909,12,43797150,76,2,4830,81',0,0,Freteliano dos Santos (Timor-Leste) Substitution at 81',Freteliano dos Santos Substituti,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,391510.0,2024-09-20 05:42:51
+12746,710909,13,43797151,94,2,5040,84',0,0,Filomeno (Timor-Leste) Yellow Card at 84',Filomeno Yellow Card,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,283012.0,2024-09-20 05:42:51
+12746,710909,14,43797152,76,2,5160,86',0,0,Munkh-Erdene Batkhuyag (Mongolia) Substitution at 86',Munkh-Erdene Batkhuyag Substitut,8663,0.0,0.0,0.0,0.0,0.0,0.0,1,321565.0,2024-09-20 05:42:51
+12746,710909,14,43797152,76,2,5160,86',0,0,Munkh-Erdene Batkhuyag (Mongolia) Substitution at 86',Munkh-Erdene Batkhuyag Substitut,8663,0.0,0.0,0.0,0.0,0.0,0.0,2,286099.0,2024-09-20 05:42:51
+12746,710909,16,43797154,94,2,5400,90'+5',0,0,Anizo Correia (Timor-Leste) Yellow Card at 95',Anizo Correia Yellow Card,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,332294.0,2024-09-20 05:42:51
+12746,710909,17,43797155,94,2,5400,90'+8',0,0,Bayartsengel Purevdorj (Mongolia) Yellow Card at 98',Bayartsengel Purevdorj Yellow Ca,8663,0.0,0.0,0.0,0.0,0.0,0.0,1,317147.0,2024-09-20 05:42:51
+12746,710909,15,43797153,76,2,5400,90',0,0,Elias Mesquita (Timor-Leste) Substitution at 90',Elias Mesquita Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,1,317200.0,2024-09-20 05:42:51
+12746,710909,15,43797153,76,2,5400,90',0,0,Elias Mesquita (Timor-Leste) Substitution at 90',Elias Mesquita Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,400684.0,2024-09-20 05:42:51
+12746,710909,15,43797153,76,2,5400,90',0,0,Elias Mesquita (Timor-Leste) Substitution at 90',Elias Mesquita Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,383989.0,2024-09-20 05:42:51
+12746,710909,15,43797153,76,2,5400,90',0,0,Elias Mesquita (Timor-Leste) Substitution at 90',Elias Mesquita Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,383059.0,2024-09-20 05:42:51
+12746,710909,15,43797153,76,2,5400,90',0,0,Elias Mesquita (Timor-Leste) Substitution at 90',Elias Mesquita Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,379564.0,2024-09-20 05:42:51
+12746,710909,15,43797153,76,2,5400,90',0,0,Elias Mesquita (Timor-Leste) Substitution at 90',Elias Mesquita Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,366776.0,2024-09-20 05:42:51
+12746,710909,15,43797153,76,2,5400,90',0,0,Elias Mesquita (Timor-Leste) Substitution at 90',Elias Mesquita Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,361471.0,2024-09-20 05:42:51
+12746,710909,15,43797153,76,2,5400,90',0,0,Elias Mesquita (Timor-Leste) Substitution at 90',Elias Mesquita Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,357976.0,2024-09-20 05:42:51
+12746,710909,15,43797153,76,2,5400,90',0,0,Elias Mesquita (Timor-Leste) Substitution at 90',Elias Mesquita Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,357969.0,2024-09-20 05:42:51
+12746,710909,15,43797153,76,2,5400,90',0,0,Elias Mesquita (Timor-Leste) Substitution at 90',Elias Mesquita Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,339075.0,2024-09-20 05:42:51
+12746,710909,15,43797153,76,2,5400,90',0,0,Elias Mesquita (Timor-Leste) Substitution at 90',Elias Mesquita Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,325082.0,2024-09-20 05:42:51
+12746,710909,15,43797153,76,2,5400,90',0,0,Elias Mesquita (Timor-Leste) Substitution at 90',Elias Mesquita Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,318153.0,2024-09-20 05:42:51
+12746,710909,15,43797153,76,2,5400,90',0,0,Elias Mesquita (Timor-Leste) Substitution at 90',Elias Mesquita Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,315114.0,2024-09-20 05:42:51
+12746,710909,15,43797153,76,2,5400,90',0,0,Elias Mesquita (Timor-Leste) Substitution at 90',Elias Mesquita Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,314946.0,2024-09-20 05:42:51
+12746,710909,15,43797153,76,2,5400,90',0,0,Elias Mesquita (Timor-Leste) Substitution at 90',Elias Mesquita Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,314542.0,2024-09-20 05:42:51
+12746,710909,15,43797153,76,2,5400,90',0,0,Elias Mesquita (Timor-Leste) Substitution at 90',Elias Mesquita Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,304762.0,2024-09-20 05:42:51
+12746,710909,15,43797153,76,2,5400,90',0,0,Elias Mesquita (Timor-Leste) Substitution at 90',Elias Mesquita Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,304445.0,2024-09-20 05:42:51
+12746,710909,15,43797153,76,2,5400,90',0,0,Elias Mesquita (Timor-Leste) Substitution at 90',Elias Mesquita Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,301863.0,2024-09-20 05:42:51
+12746,710909,15,43797153,76,2,5400,90',0,0,Elias Mesquita (Timor-Leste) Substitution at 90',Elias Mesquita Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,290720.0,2024-09-20 05:42:51
+12746,710909,15,43797153,76,2,5400,90',0,0,Elias Mesquita (Timor-Leste) Substitution at 90',Elias Mesquita Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,284960.0,2024-09-20 05:42:51
+12746,710909,15,43797153,76,2,5400,90',0,0,Elias Mesquita (Timor-Leste) Substitution at 90',Elias Mesquita Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,283025.0,2024-09-20 05:42:51
+12746,710909,15,43797153,76,2,5400,90',0,0,Elias Mesquita (Timor-Leste) Substitution at 90',Elias Mesquita Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,233809.0,2024-09-20 05:42:51
+12746,710909,15,43797153,76,2,5400,90',0,0,Elias Mesquita (Timor-Leste) Substitution at 90',Elias Mesquita Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,219715.0,2024-09-20 05:42:51
+12746,710909,15,43797153,76,2,5400,90',0,0,Elias Mesquita (Timor-Leste) Substitution at 90',Elias Mesquita Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,216378.0,2024-09-20 05:42:51
+12746,710909,15,43797153,76,2,5400,90',0,0,Elias Mesquita (Timor-Leste) Substitution at 90',Elias Mesquita Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,213260.0,2024-09-20 05:42:51
+12746,710909,15,43797153,76,2,5400,90',0,0,Elias Mesquita (Timor-Leste) Substitution at 90',Elias Mesquita Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,185857.0,2024-09-20 05:42:51
+12746,710909,15,43797153,76,2,5400,90',0,0,Elias Mesquita (Timor-Leste) Substitution at 90',Elias Mesquita Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,152014.0,2024-09-20 05:42:51
+12746,710909,15,43797153,76,2,5400,90',0,0,Elias Mesquita (Timor-Leste) Substitution at 90',Elias Mesquita Substitution,8664,0.0,0.0,0.0,0.0,0.0,0.0,2,149631.0,2024-09-20 05:42:51
+12746,710910,1,43883784,94,1,1020,17',0,0,Chan Man (Macau) Yellow Card at 17',Chan Man Yellow Card,6722,0.0,0.0,0.0,0.0,0.0,0.0,1,244841.0,2024-09-30 05:42:26
+12746,710910,2,43883785,94,1,1560,26',0,0,Cheng-Lam (Macau) Yellow Card at 26',Cheng-Lam Yellow Card,6722,0.0,0.0,0.0,0.0,0.0,0.0,1,374290.0,2024-09-30 05:42:26
+12746,710910,3,43883786,70,1,1920,32',1,0,Hakeme Yazid Said (Brunei Darussalam) Goal at 32',Hakeme Yazid Said Goal,10525,0.0,0.0,0.0,0.0,0.0,0.0,1,350693.0,2024-09-30 05:42:26
+12746,710910,4,43883787,94,1,2340,39',0,0,Abdul Hariz (Brunei Darussalam) Yellow Card at 39',Abdul Hariz Yellow Card,10525,0.0,0.0,0.0,0.0,0.0,0.0,1,268659.0,2024-09-30 05:42:26
+12746,710910,5,43883788,76,2,3230,54',0,0,Ieong Lek-Hang (Macau) Substitution at 54',Ieong Lek-Hang Substitution,6722,0.0,0.0,0.0,0.0,0.0,0.0,1,372432.0,2024-09-30 05:42:26
+12746,710910,5,43883788,76,2,3230,54',0,0,Ieong Lek-Hang (Macau) Substitution at 54',Ieong Lek-Hang Substitution,6722,0.0,0.0,0.0,0.0,0.0,0.0,2,317126.0,2024-09-30 05:42:26
+12746,710910,6,43883789,76,2,3240,54',0,0,Keng-Pan (Macau) Substitution at 54',Keng-Pan Substitution,6722,0.0,0.0,0.0,0.0,0.0,0.0,1,250086.0,2024-09-30 05:42:26
+12746,710910,6,43883789,76,2,3240,54',0,0,Keng-Pan (Macau) Substitution at 54',Keng-Pan Substitution,6722,0.0,0.0,0.0,0.0,0.0,0.0,2,285442.0,2024-09-30 05:42:26
+12746,710910,7,43883790,70,2,3360,56',1,0,Nazry Azaman (Brunei Darussalam) Goal at 56',Nazry Azaman Goal,10525,0.0,0.0,0.0,0.0,0.0,0.0,1,374506.0,2024-09-30 05:42:26
+12746,710910,8,43883791,70,2,3660,61',1,0,Hariz Danial (Brunei Darussalam) Goal at 61',Hariz Danial Goal,10525,0.0,0.0,0.0,0.0,0.0,0.0,1,317102.0,2024-09-30 05:42:26
+12746,710910,8,43883791,70,2,3660,61',1,0,Hariz Danial (Brunei Darussalam) Goal at 61',Hariz Danial Goal,10525,0.0,0.0,0.0,0.0,0.0,0.0,1,297461.0,2024-09-30 05:42:26
+12746,710910,9,43883792,76,2,3720,62',0,0,Ng Wa Seng (Macau) Substitution at 62',Ng Wa Seng Substitution,6722,0.0,0.0,0.0,0.0,0.0,0.0,1,317123.0,2024-09-30 05:42:26
+12746,710910,9,43883792,76,2,3720,62',0,0,Ng Wa Seng (Macau) Substitution at 62',Ng Wa Seng Substitution,6722,0.0,0.0,0.0,0.0,0.0,0.0,2,244841.0,2024-09-30 05:42:26
+12746,710910,10,43883793,76,2,3800,64',0,0,Razimie Ramlli (Brunei Darussalam) Substitution at 64',Razimie Ramlli Substitution,10525,0.0,0.0,0.0,0.0,0.0,0.0,1,250114.0,2024-09-30 05:42:26
+12746,710910,10,43883793,76,2,3800,64',0,0,Razimie Ramlli (Brunei Darussalam) Substitution at 64',Razimie Ramlli Substitution,10525,0.0,0.0,0.0,0.0,0.0,0.0,2,317102.0,2024-09-30 05:42:26
+12746,710910,10,43883793,76,2,3800,64',0,0,Razimie Ramlli (Brunei Darussalam) Substitution at 64',Razimie Ramlli Substitution,10525,0.0,0.0,0.0,0.0,0.0,0.0,2,297461.0,2024-09-30 05:42:26
+12746,710910,11,43883794,76,2,3830,64',0,0,Wafi (Brunei Darussalam) Substitution at 64',Wafi Substitution,10525,0.0,0.0,0.0,0.0,0.0,0.0,1,268669.0,2024-09-30 05:42:26
+12746,710910,11,43883794,76,2,3830,64',0,0,Wafi (Brunei Darussalam) Substitution at 64',Wafi Substitution,10525,0.0,0.0,0.0,0.0,0.0,0.0,2,268659.0,2024-09-30 05:42:26
+12746,710910,12,43883795,76,2,3840,64',0,0,Hanif Farhan (Brunei Darussalam) Substitution at 64',Hanif Farhan Substitution,10525,0.0,0.0,0.0,0.0,0.0,0.0,1,374478.0,2024-09-30 05:42:26
+12746,710910,12,43883795,76,2,3840,64',0,0,Hanif Farhan (Brunei Darussalam) Substitution at 64',Hanif Farhan Substitution,10525,0.0,0.0,0.0,0.0,0.0,0.0,2,334625.0,2024-09-30 05:42:26
+12746,710910,13,43883796,76,2,4310,72',0,0,Khairil Shahme Suhaimi (Brunei Darussalam) Substitution at 72',Khairil Shahme Suhaimi Substitut,10525,0.0,0.0,0.0,0.0,0.0,0.0,1,244762.0,2024-09-30 05:42:26
+12746,710910,13,43883796,76,2,4310,72',0,0,Khairil Shahme Suhaimi (Brunei Darussalam) Substitution at 72',Khairil Shahme Suhaimi Substitut,10525,0.0,0.0,0.0,0.0,0.0,0.0,2,244771.0,2024-09-30 05:42:26
+12746,710910,14,43883797,76,2,4320,72',0,0,Faturrahman Embran (Brunei Darussalam) Substitution at 72',Faturrahman Embran Substitution,10525,0.0,0.0,0.0,0.0,0.0,0.0,1,392988.0,2024-09-30 05:42:26
+12746,710910,14,43883797,76,2,4320,72',0,0,Faturrahman Embran (Brunei Darussalam) Substitution at 72',Faturrahman Embran Substitution,10525,0.0,0.0,0.0,0.0,0.0,0.0,2,297460.0,2024-09-30 05:42:26
+12746,710910,15,43883798,76,2,4800,80',0,0,Chon-Kit (Macau) Substitution at 80',Chon-Kit Substitution,6722,0.0,0.0,0.0,0.0,0.0,0.0,1,244816.0,2024-09-30 05:42:26
+12746,710910,15,43883798,76,2,4800,80',0,0,Chon-Kit (Macau) Substitution at 80',Chon-Kit Substitution,6722,0.0,0.0,0.0,0.0,0.0,0.0,2,372434.0,2024-09-30 05:42:26
+12746,710910,16,43883799,94,2,5400,90'+6',0,0,Ka-Seng (Macau) Yellow Card at 96',Ka-Seng Yellow Card,6722,0.0,0.0,0.0,0.0,0.0,0.0,1,317129.0,2024-09-30 05:42:26
+12746,710911,1,43885987,70,1,600,10',1,0,Azwan Ali Rahman (Brunei Darussalam) Goal at 10',Azwan Ali Rahman Goal,10525,0.0,0.0,0.0,0.0,0.0,0.0,1,244771.0,2024-09-30 05:42:26
+12746,710911,2,43885988,94,1,1620,27',0,0,Azwan Ali Rahman (Brunei Darussalam) Yellow Card at 27',Azwan Ali Rahman Yellow Card,10525,0.0,0.0,0.0,0.0,0.0,0.0,1,244771.0,2024-09-30 05:42:26
+12746,710911,3,43885989,76,1,1800,30',0,0,Ieong Lek-Hang (Macau) Substitution at 30',Ieong Lek-Hang Substitution,6722,0.0,0.0,0.0,0.0,0.0,0.0,1,372432.0,2024-09-30 05:42:26
+12746,710911,3,43885989,76,1,1800,30',0,0,Ieong Lek-Hang (Macau) Substitution at 30',Ieong Lek-Hang Substitution,6722,0.0,0.0,0.0,0.0,0.0,0.0,2,317123.0,2024-09-30 05:42:26
+12746,710911,4,43885990,94,1,1860,31',0,0,Pang Chi Hang (Macau) Yellow Card at 31',Pang Chi Hang Yellow Card,6722,0.0,0.0,0.0,0.0,0.0,0.0,1,317126.0,2024-09-30 05:42:26
+12746,710911,5,43885991,94,2,3000,50',0,0,Chan Man (Macau) Yellow Card at 50',Chan Man Yellow Card,6722,0.0,0.0,0.0,0.0,0.0,0.0,1,244841.0,2024-09-30 05:42:26
+12746,710911,6,43885992,76,2,3480,58',0,0,Man-Tek Lei (Macau) Substitution at 58',Man-Tek Lei Substitution,6722,0.0,0.0,0.0,0.0,0.0,0.0,1,392990.0,2024-09-30 05:42:26
+12746,710911,6,43885992,76,2,3480,58',0,0,Man-Tek Lei (Macau) Substitution at 58',Man-Tek Lei Substitution,6722,0.0,0.0,0.0,0.0,0.0,0.0,2,317126.0,2024-09-30 05:42:26
+12746,710911,7,43885993,76,2,3710,62',0,0,Khairil Shahme Suhaimi (Brunei Darussalam) Substitution at 62',Khairil Shahme Suhaimi Substitut,10525,0.0,0.0,0.0,0.0,0.0,0.0,1,244762.0,2024-09-30 05:42:26
+12746,710911,7,43885993,76,2,3710,62',0,0,Khairil Shahme Suhaimi (Brunei Darussalam) Substitution at 62',Khairil Shahme Suhaimi Substitut,10525,0.0,0.0,0.0,0.0,0.0,0.0,2,244771.0,2024-09-30 05:42:26
+12746,710911,8,43885994,76,2,3720,62',0,0,Wafi (Brunei Darussalam) Substitution at 62',Wafi Substitution,10525,0.0,0.0,0.0,0.0,0.0,0.0,1,268669.0,2024-09-30 05:42:26
+12746,710911,8,43885994,76,2,3720,62',0,0,Wafi (Brunei Darussalam) Substitution at 62',Wafi Substitution,10525,0.0,0.0,0.0,0.0,0.0,0.0,2,244752.0,2024-09-30 05:42:26
+12746,710911,9,43885995,76,2,4490,75',0,0,Haziq Kasyful Azim (Brunei Darussalam) Substitution at 75',Haziq Kasyful Azim Substitution,10525,0.0,0.0,0.0,0.0,0.0,0.0,1,354546.0,2024-09-30 05:42:26
+12746,710911,9,43885995,76,2,4490,75',0,0,Haziq Kasyful Azim (Brunei Darussalam) Substitution at 75',Haziq Kasyful Azim Substitution,10525,0.0,0.0,0.0,0.0,0.0,0.0,2,268659.0,2024-09-30 05:42:26
+12746,710911,10,43885996,76,2,4500,75',0,0,Faturrahman Embran (Brunei Darussalam) Substitution at 75',Faturrahman Embran Substitution,10525,0.0,0.0,0.0,0.0,0.0,0.0,1,392988.0,2024-09-30 05:42:26
+12746,710911,10,43885996,76,2,4500,75',0,0,Faturrahman Embran (Brunei Darussalam) Substitution at 75',Faturrahman Embran Substitution,10525,0.0,0.0,0.0,0.0,0.0,0.0,2,350693.0,2024-09-30 05:42:26
+12746,710911,11,43885997,76,2,4730,79',0,0,Hou-In Si (Macau) Substitution at 79',Hou-In Si Substitution,6722,0.0,0.0,0.0,0.0,0.0,0.0,1,392989.0,2024-09-30 05:42:26
+12746,710911,11,43885997,76,2,4730,79',0,0,Hou-In Si (Macau) Substitution at 79',Hou-In Si Substitution,6722,0.0,0.0,0.0,0.0,0.0,0.0,2,317129.0,2024-09-30 05:42:26
+12746,710911,12,43885998,76,2,4740,79',0,0,Chi-Kin Ao (Macau) Substitution at 79',Chi-Kin Ao Substitution,6722,0.0,0.0,0.0,0.0,0.0,0.0,1,392991.0,2024-09-30 05:42:26
+12746,710911,12,43885998,76,2,4740,79',0,0,Chi-Kin Ao (Macau) Substitution at 79',Chi-Kin Ao Substitution,6722,0.0,0.0,0.0,0.0,0.0,0.0,2,393001.0,2024-09-30 05:42:26
+12746,710911,13,43885999,76,2,4800,80',0,0,Hazwan Hamzah (Brunei Darussalam) Substitution at 80',Hazwan Hamzah Substitution,10525,0.0,0.0,0.0,0.0,0.0,0.0,1,244775.0,2024-09-30 05:42:26
+12746,710911,13,43885999,76,2,4800,80',0,0,Hazwan Hamzah (Brunei Darussalam) Substitution at 80',Hazwan Hamzah Substitution,10525,0.0,0.0,0.0,0.0,0.0,0.0,2,350691.0,2024-09-30 05:42:26
