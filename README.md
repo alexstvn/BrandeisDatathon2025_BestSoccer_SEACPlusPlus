@@ -1,5 +1,6 @@
 # Brandeis Datathon: Best Soccer Team Data
 **SEAC++**: *Max Ansonoff, Alex Stevenson, David Tuan*
+
 About the Project
 -------------
 ### Addressing the Problem Statement
