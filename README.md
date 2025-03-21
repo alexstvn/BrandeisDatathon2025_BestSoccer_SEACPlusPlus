@@ -11,5 +11,5 @@ About the Project
 
 The Directory
 -------------
-- `data` is the directory that contains the original data uploaded from Kaggle.
+- `raw_data` is the directory that contains the original data uploaded from Kaggle.
 - `clean_data` is the directory containing data after post-processing and cleaning.
